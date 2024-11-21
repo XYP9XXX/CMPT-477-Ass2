@@ -1,0 +1,5 @@
+smt/QuantifierExampleTest.class
+smt/FunctionExampleTest.class
+smt/DistinctExampleTest.class
+smt/ArrayExampleTest.class
+smt/IntegerExampleTest.class
